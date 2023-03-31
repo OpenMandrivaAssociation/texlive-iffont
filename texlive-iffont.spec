@@ -1,6 +1,6 @@
 Name:		texlive-iffont
 Version:	38823
-Release:	1
+Release:	2
 Summary:	Conditionally load fonts with fontspec
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iffont
